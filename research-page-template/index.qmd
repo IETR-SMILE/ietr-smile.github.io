@@ -1,0 +1,42 @@
+---
+title: "Research Paper Title"
+author: 
+  - name: "Author One"
+    affiliation: "Your Organization"
+  - name: "Author Two"
+    affiliation: "Collaborating Org"
+date: last-modified
+---
+
+::: {.text-center}
+[![](assets/GitHub_Invertocat_Black.svg){width=20px} GitHub](https://github.com/your-org/repo){.btn .btn-outline-dark .btn-role role="button"}
+[[![](assets/arxiv-logo.svg){width=40px}](https://arxiv.org/abs/xxxx.xxxxx)]{.btn .btn-outline-dark .btn-role role="button"}
+[Published Version](https://doi.org/your-doi-link){.btn .btn-outline-dark role="button"}
+[Poster](poster.pdf){.btn .btn-outline-dark .btn-role role="button"}
+[Slides](slides.pdf){.btn .btn-outline-dark .btn-role role="button"}
+:::
+
+## Abstract
+A brief summary of the research. 
+
+## Section 1
+
+You can include plots or images directly:
+
+![Figure 1: Caption describing the data](image.png)
+
+## Citation
+
+If you use this work, please cite it as:
+
+> Author, A., & Author, B. (2026). *Title of the Paper*. Conference/Journal Name.
+
+Bibtex entry:
+```bibtex
+@inproceedings{author2026title,
+  title={Title of the Paper},
+  author={Author, A. and Author, B.},
+  booktitle={Conference/Journal Name},
+  year={2026}
+}
+```

@@ -1,0 +1,33 @@
+/* Add custom styles here */
+.navbar {
+  background-color: #000000;
+}
+
+/* This ensures your custom SVG matches the size of standard icons */
+.navbar-nav .nav-link img {
+  height: 1.2em; 
+  vertical-align: middle;
+  margin-top: -3px; /* Fine-tune vertical alignment */
+  filter: invert(1); /* Use this if your SVG is black and your navbar is dark */
+}
+
+/* Style the buttons to look like research badges */
+.btn-outline-dark {
+  border-radius: 50px !important; /* Makes them pill-shaped */
+  margin: 5px;
+  padding: 0.4rem 1.2rem;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+/* Ensure the SVG icon aligns perfectly with the text */
+.btn-outline-dark img {
+  margin-top: -3px;
+  margin-right: 5px;
+}
+
+/* Optional: change color on hover */
+.btn-outline-dark:hover {
+  background-color: #f8f9fa;
+  color: black;
+}

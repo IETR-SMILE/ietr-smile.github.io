@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Paper Title",
+    "section": "",
+    "text": "GitHub  Published Version Poster Slides"
+  },
+  {
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "Research Paper Title",
+    "section": "Abstract",
+    "text": "Abstract\nA brief summary of the research."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Research Paper Title",
+    "section": "Section 1",
+    "text": "Section 1\nYou can include plots or images directly:\n\n\n\nFigure 1: Caption describing the data"
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "Research Paper Title",
+    "section": "Citation",
+    "text": "Citation\nIf you use this work, please cite it as:\n\nAuthor, A., & Author, B. (2026). Title of the Paper. Conference/Journal Name.\n\nBibtex entry:\n@inproceedings{author2026title,\n  title={Title of the Paper},\n  author={Author, A. and Author, B.},\n  booktitle={Conference/Journal Name},\n  year={2026}\n}"
+  }
+]
