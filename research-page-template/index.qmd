@@ -9,8 +9,8 @@ date: last-modified
 ---
 
 ::: {.text-center}
-[![](assets/GitHub_Invertocat_Black.svg){width=20px} GitHub](https://github.com/your-org/repo){.btn .btn-outline-dark .btn-role role="button"}
-[[![](assets/arxiv-logo.svg){width=40px}](https://arxiv.org/abs/xxxx.xxxxx)]{.btn .btn-outline-dark .btn-role role="button"}
+[![](logos/GitHub_Invertocat_Black.svg){width=20px} GitHub](https://github.com/your-org/repo){.btn .btn-outline-dark .btn-role role="button"}
+[[![](logos/arxiv-logo.svg){width=40px}](https://arxiv.org/abs/xxxx.xxxxx)]{.btn .btn-outline-dark .btn-role role="button"}
 [Published Version](https://doi.org/your-doi-link){.btn .btn-outline-dark role="button"}
 [Poster](poster.pdf){.btn .btn-outline-dark .btn-role role="button"}
 [Slides](slides.pdf){.btn .btn-outline-dark .btn-role role="button"}
@@ -23,7 +23,7 @@ A brief summary of the research.
 
 You can include plots or images directly:
 
-![Figure 1: Caption describing the data](image.png)
+![Figure 1: Caption describing the data](logos/GitHub_Logo.png){width="300px"}
 
 ## Citation
 
