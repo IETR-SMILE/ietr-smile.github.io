@@ -1,1 +1,1 @@
-# ietr-smile.github.io
+# AIMAC Team's GitHub Page
